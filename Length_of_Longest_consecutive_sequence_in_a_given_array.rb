@@ -22,9 +22,6 @@ def find_length(ex)
   
   endofL=0
   max_len=1
-   
-  #testcase 1: [1,2,3,65,77,11,12,13,14,15]
-  #testcase2: [1,2,3,4,4,5,5,6]
   
     #start looping the array with endofL at the first index
     while endofL < ex.length-1 do
