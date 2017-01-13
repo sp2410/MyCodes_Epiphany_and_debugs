@@ -1,7 +1,6 @@
 # input: an array of ints: ex: [1,2,3,65,77,11,12,13,14,15]
 # output: length of the longest, consecutively increasing subsequence
 
-#tested on other inputs: [1,2,3,65,77,11,12,13,14,15] => 5, [-1,-2,-1,0,1,2,0,-6]=> 5,[] => 0, [1] => 1, [1,-4,-2,-5,1,5,8] => 1
 
 # #testcase 1: [1,2,3,65,77,11,12,13,14,15]
 # #testcase2: [-1,-2,-1,0,1,2,0,-6]
